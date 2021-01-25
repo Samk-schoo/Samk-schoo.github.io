@@ -1,1 +1,1 @@
-"Hello World"
+"<p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'>The part that I found to inspire me was the section about software entropy. The parts that interested me was the parts about how a relatively small portion of the project being messy or incorrect cause a psychological effect about the overall state of the project until the perceived becomes a reality.</p>"
